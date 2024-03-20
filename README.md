@@ -27,3 +27,4 @@ _italic text_
 ~~striked  text~~
 
 superscript <sup> s2
+E=mc<sup> 2
