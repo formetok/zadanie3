@@ -34,7 +34,7 @@ _italic text_
 
 superscript <sup> s2
 
- $E=mc^2$
+ $$E=mc^2$$
 ---
 - item 1
 
