@@ -16,7 +16,7 @@
 
 > A block quote
 
-```
+``` javascript
 function test() {
   console.log("notice the blank line before this function?");
 }
@@ -34,8 +34,8 @@ _italic text_
 
 superscript <sup> s2
 
-**E=mc<sup> 2** 
-
+ $E=mc^2$
+---
 - item 1
 
 - item 2
@@ -53,3 +53,5 @@ superscript <sup> s2
   |---------------------------|----------------------|
   |a                          |b                     |
   |c                          |d                     |
+
+  http://rmarkdown.rstudio.com/
