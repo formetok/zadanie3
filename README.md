@@ -28,6 +28,6 @@ _italic text_
 
 superscript <sup> s2
 
-**E=mc<sup> 2**
+                                             **E=mc<sup> 2**
 
 
