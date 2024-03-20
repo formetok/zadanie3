@@ -1,10 +1,10 @@
 # zadanie3
 
-### A first level  header
+# A first level  header
 
-### A first level header
+# A first level header
 
-### A second level header
+## A second level header
 
 ### A third level header
 
@@ -26,4 +26,4 @@ _italic text_
 
 ~~striked  text~~
 
-superscript
+superscript <sup> s2
