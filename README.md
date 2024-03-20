@@ -16,6 +16,12 @@
 
 > A block quote
 
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
+
  Aplain code  block
 
 **bold text**
