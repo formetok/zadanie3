@@ -40,6 +40,6 @@ superscript <sup> s2
 1. item 1
 2. item 2
 
-    a.item 1
+    a.sub-item 1
 
-   b.item 2
+   b.sub-item 2
