@@ -30,7 +30,7 @@ superscript <sup> s2
 
 **E=mc<sup> 2** 
 
--item 1
+- item 1
 -item 2
 
 
