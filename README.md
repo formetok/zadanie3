@@ -36,3 +36,6 @@ superscript <sup> s2
 
   - sub-item 1
   - sub-item 2
+
+1. item 1
+2. item 2
